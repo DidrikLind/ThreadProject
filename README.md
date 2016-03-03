@@ -9,3 +9,5 @@ Practicing threads
 *The order of the gathering of materials doesnt matter, it is only important to have A,B,C unique.
 *No empty ship in the process to get stuck
 
+Find more about the project in swedish here: https://dilijavajensen.wordpress.com/2015/10/18/vecka-42-projekt-threadstradar/
+
